@@ -1,0 +1,8 @@
+CODIGO,DISTRITO,DEPARTAMENTO,MUNICIPIO,ESTABLECIMIENTO,DIRECCION,TELEFONO,SUPERVISOR,DIRECTOR,NIVEL,SECTOR,AREA,STATUS,MODALIDAD,JORNADA,PLAN,DEPARTAMENTAL,DEPT_MUN,TELEFONO_CLEAN,TELEFONO_FLAG,ADDR_MISSING_URBAN,JORNADA_DOBLE,JORNADA_INTERMEDIA,JORNADA_MATUTINA,JORNADA_NOCTURNA,JORNADA_SIN JORNADA,JORNADA_VESPERTINA,MOD_BUCKET,IS_BILINGUE,STATUS_NOT_ABIERTA,OFICIAL_NO_PHONE,NACIONAL_TAG_MISTAKE
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
+,,,,,,,,,,,,,,,,,,,True,False,0,0,0,0,0,0,,False,True,False,False
